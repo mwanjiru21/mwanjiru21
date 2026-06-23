@@ -1,9 +1,9 @@
-# Hi there, I'm Mwanjiru 👋
+# Hi there, I'm Margaret Njonjo 👋
 
 ### 🛰️ Telecommunications Engineer & Software Developer
 I bridge the gap between complex engineering infrastructure, data modeling, and automated software solutions. Passionate about leveraging data-driven architectures and AI tools to solve world age woes.
 
----
+***
 
 ### 🛠️ Tech Stack & Skills
 - **Core Engineering:** Network Architecture, System Automation, Signal Processing
