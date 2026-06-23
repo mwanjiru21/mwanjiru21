@@ -13,7 +13,7 @@ I bridge the gap between complex engineering infrastructure, data modeling, and 
 ---
 
 ### 🚀 Highlighted Projects
-* **[Blood Management Data Model](https://github.com)** – A web-based system for real-time blood unit tracking and distribution mapping across healthcare facilities in Kenya.
+* **[Blood Management Data Model](https://github.com/mwanjiru21/Blood-Management-Data-Model.git)** – A web-based system for real-time blood unit tracking and distribution mapping across healthcare facilities in Kenya.
 * **[RespiraMate](https://github.com)** – AI-powered respiratory health monitor for asthma and COPD patients in low-resource settings. Built to prevent the preventable.
 
 ---
